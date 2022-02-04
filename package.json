@@ -1,0 +1,19 @@
+{
+  "name": "comp229",
+  "version": "1.0.0",
+  "description": "COMP229 - Code Eg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Week",
+    "Code",
+    "Eg"
+  ],
+  "author": "Daivik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
